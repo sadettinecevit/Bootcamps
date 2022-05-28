@@ -1,5 +1,5 @@
 ﻿using Bootcamp.Teleperformance.Hafta1.DataManager;
-using Bootcamp.Teleperformance.Hafta1.Entity;
+using Bootcamp.Teleperformance.Hafta1.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -21,23 +21,23 @@ namespace Bootcamp.Teleperformance.Hafta1.Controllers
                 productManager = new ProductManager();
         }
 
-        [HttpGet("getall")]
-        public List<Product> GetAll()
+        [HttpGet("getAllProducts")]
+        public List<IModel> GetAll()
         {
-            List<Product> result = new List<Product>();
+            List<IModel> result = new List<IModel>();
             result = productManager.GetAll();
             return result;
         }
 
-        [HttpGet("get/{id}")]
+        [HttpGet("getProduct/{id}")]
         public Product GetById(int id)
         {
             Product result = new Product();
-            result = productManager.GetById(id);
+            result = (Product)productManager.GetById(id);
             return result;
         }
 
-        [HttpPost("add")]
+        [HttpPost("addProduct")]
         public IActionResult Add([FromForm] Product product)
         {
             bool result = false;

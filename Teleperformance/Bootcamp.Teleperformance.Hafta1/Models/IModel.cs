@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Bootcamp.Teleperformance.Hafta1.Entity
+namespace Bootcamp.Teleperformance.Hafta1.Models
 {
-    interface IModel
+    public interface IModel
     {
     }
 }

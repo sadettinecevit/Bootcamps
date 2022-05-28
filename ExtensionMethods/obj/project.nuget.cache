@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4VIITpkrdfNZJ1nnGgtewaWUYiWuw3TrSRcWOUVZJEBhZc2JshJ44FY5Npqi+4xKfMs41HIF1YNIaHC25TOA0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\secevit\\source\\repos\\Bootcamps\\ExtensionMethods\\ExtensionMethods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\secevit\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

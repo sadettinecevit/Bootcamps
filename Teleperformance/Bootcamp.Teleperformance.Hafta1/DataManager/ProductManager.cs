@@ -1,4 +1,4 @@
-﻿using Bootcamp.Teleperformance.Hafta1.Entity;
+﻿using Bootcamp.Teleperformance.Hafta1.Models;
 using Bootcamp.Teleperformance.Hafta1.InMemoryDatas;
 using System;
 using System.Collections.Generic;
@@ -7,40 +7,38 @@ using System.Threading.Tasks;
 
 namespace Bootcamp.Teleperformance.Hafta1.DataManager
 {
-    public class ProductManager
+    public class ProductManager : IDataManager
     {
         public static ProductData productData;
 
         public ProductManager()
         {
-            //if(productData == null)
             productData = new ProductData();
         }
 
-        public List<Product> GetAll()
+        public List<IModel> GetAll()
         {
-            List<Product> products = new List<Product>();
-
+            var products = new List<IModel>();
             products = productData.ProductsList;
 
             return products;
         }
 
-        internal List<Product> GetById(int v, int id)
+        public IModel GetById(int id)
         {
-            List<Product> products = new List<Product>();
+            IModel product = new Product();
 
-            products = productData.ProductsList;
+            product = productData.ProductsList.Where<IModel>(I => (I as Product).Id == id) as Product;
 
-            return products;
+            return product;
         }
 
-        internal bool Add(Product product)
+        public bool Add(IModel product)
         {
             bool retVal = true;
             try
             {
-                productData.ProductsList.Add(product);
+                productData.ProductsList.Add((Product)product);
             }
             catch (Exception)
             {
@@ -50,25 +48,18 @@ namespace Bootcamp.Teleperformance.Hafta1.DataManager
             return true;
         }
 
-        internal Product GetById(int id)
-        {
-            Product product = new Product();
-            product = productData.ProductsList.SingleOrDefault<Product>(I => I.Id == id);
-            return product;
-        }
-
-        internal bool Update(int id, Product newProduct)
+        public bool Update(int id, IModel newProduct)
         {
             bool retVal = true;
             Product product = new Product();
             try
             {
-                product = productData.ProductsList.SingleOrDefault<Product>(I => I.Id == id);
+                product = productData.ProductsList.SingleOrDefault<IModel>(I => (I as Product).Id == id) as Product;
 
-                product.Id = newProduct.Id;
-                product.Name = newProduct.Name;
-                product.CategoryId = newProduct.CategoryId;
-                product.StockId = newProduct.StockId;
+                product.Id = ((Product)newProduct).Id;
+                product.Name = ((Product)newProduct).Name;
+                product.CategoryId = ((Product)newProduct).CategoryId;
+                product.StockId = ((Product)newProduct).StockId;
             }
             catch (Exception)
             {
@@ -78,12 +69,12 @@ namespace Bootcamp.Teleperformance.Hafta1.DataManager
             return retVal;
         }
 
-        internal bool Delete(int id)
+        public bool Delete(int id)
         {
             bool retVal = true;
             try
             {
-                productData.ProductsList.Remove((Product)productData.ProductsList.Where<Product>(I => I.Id == id));
+                productData.ProductsList.Remove(productData.ProductsList.SingleOrDefault<IModel>(I => (I as Product).Id == id) as Product);
             }
             catch (Exception)
             {

@@ -1,4 +1,4 @@
-﻿using Bootcamp.Teleperformance.Hafta1.Entity;
+﻿using Bootcamp.Teleperformance.Hafta1.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,9 +8,9 @@ namespace Bootcamp.Teleperformance.Hafta1.InMemoryDatas
 {
     public class ProductData
     {
-        private List<Product> _products;
+        private List<IModel> _products;
 
-        public List<Product> ProductsList
+        public List<IModel> ProductsList
         {
             get
             {
@@ -24,7 +24,7 @@ namespace Bootcamp.Teleperformance.Hafta1.InMemoryDatas
 
         public ProductData()
         {
-            _products = new List<Product>();
+            _products = new List<IModel>();
 
             ProductsList.Add(new Product { Id = 1, CategoryId = 1, Name = "Şarj Aleti", StockId = 1 });
             ProductsList.Add(new Product { Id = 2, CategoryId = 2, Name = "Şarj", StockId = 2 });
