@@ -12,7 +12,7 @@ using SocialNetwork.Persistence.Context;
 namespace SocialNetwork.Persistence.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20220614084035_initial")]
+    [Migration("20220614134126_initial")]
     partial class initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -405,17 +405,17 @@ namespace SocialNetwork.Persistence.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "99e89557-5b3b-4665-b7e4-f642bb9b130d",
+                            Id = "682e80f6-119f-4c7d-bdcd-24c1b41199de",
                             Type = "Personal"
                         },
                         new
                         {
-                            Id = "a5bc487f-12cb-4c84-951f-759ce98ac9f4",
+                            Id = "c55cc777-3964-4ec3-bd86-49b60066709d",
                             Type = "Group"
                         },
                         new
                         {
-                            Id = "103d26b4-fc8f-403e-8159-7bc6099d5200",
+                            Id = "a3ff02a5-9eae-4a12-b73a-169048ec0721",
                             Type = "Public"
                         });
                 });

@@ -14,6 +14,7 @@ var configuration = builder.Configuration;
 builder.Services.AddPersistenceService(configuration);
 
 builder.Services.AddIdentity<User, IdentityRole>()
+                .AddRoles<IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
 

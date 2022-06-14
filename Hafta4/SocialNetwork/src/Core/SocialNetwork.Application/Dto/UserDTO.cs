@@ -9,7 +9,7 @@ namespace SocialNetwork.Application.Dto
 {
     public class UserDTO : IBaseEntity
     {
-        public string Id { get; set; }
+        public string Id { get; set; } = Guid.NewGuid().ToString();
         public string Name { get; set; }
         public string Lastname { get; set; }
         public string UserName { get; set; }

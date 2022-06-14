@@ -333,17 +333,17 @@ namespace SocialNetwork.Persistence.Migrations
             migrationBuilder.InsertData(
                 table: "MessageTypes",
                 columns: new[] { "Id", "Type" },
-                values: new object[] { "103d26b4-fc8f-403e-8159-7bc6099d5200", "Public" });
+                values: new object[] { "682e80f6-119f-4c7d-bdcd-24c1b41199de", "Personal" });
 
             migrationBuilder.InsertData(
                 table: "MessageTypes",
                 columns: new[] { "Id", "Type" },
-                values: new object[] { "99e89557-5b3b-4665-b7e4-f642bb9b130d", "Personal" });
+                values: new object[] { "a3ff02a5-9eae-4a12-b73a-169048ec0721", "Public" });
 
             migrationBuilder.InsertData(
                 table: "MessageTypes",
                 columns: new[] { "Id", "Type" },
-                values: new object[] { "a5bc487f-12cb-4c84-951f-759ce98ac9f4", "Group" });
+                values: new object[] { "c55cc777-3964-4ec3-bd86-49b60066709d", "Group" });
 
             migrationBuilder.CreateIndex(
                 name: "IX_AspNetRoleClaims_RoleId",

@@ -1,9 +1,3 @@
-C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\SocialNetwork.WebAPI\obj\Debug\net6.0\SocialNetwork.WebAPI.csproj.AssemblyReference.cache
-C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\SocialNetwork.WebAPI\obj\Debug\net6.0\SocialNetwork.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\SocialNetwork.WebAPI\obj\Debug\net6.0\SocialNetwork.WebAPI.AssemblyInfoInputs.cache
-C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\SocialNetwork.WebAPI\obj\Debug\net6.0\SocialNetwork.WebAPI.AssemblyInfo.cs
-C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\SocialNetwork.WebAPI\obj\Debug\net6.0\SocialNetwork.WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\SocialNetwork.WebAPI\obj\Debug\net6.0\SocialNetwork.WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\SocialNetwork.WebAPI\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\SocialNetwork.WebAPI\bin\Debug\net6.0\appsettings.json
 C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\SocialNetwork.WebAPI\bin\Debug\net6.0\SocialNetwork.WebAPI.exe
@@ -68,7 +62,13 @@ C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\So
 C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\SocialNetwork.WebAPI\bin\Debug\net6.0\SocialNetwork.Persistence.pdb
 C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\SocialNetwork.WebAPI\bin\Debug\net6.0\SocialNetwork.Application.pdb
 C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\SocialNetwork.WebAPI\bin\Debug\net6.0\SocialNetwork.Domain.pdb
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\SocialNetwork.WebAPI\obj\Debug\net6.0\SocialNetwork.WebAPI.csproj.AssemblyReference.cache
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\SocialNetwork.WebAPI\obj\Debug\net6.0\SocialNetwork.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\SocialNetwork.WebAPI\obj\Debug\net6.0\SocialNetwork.WebAPI.AssemblyInfoInputs.cache
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\SocialNetwork.WebAPI\obj\Debug\net6.0\SocialNetwork.WebAPI.AssemblyInfo.cs
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\SocialNetwork.WebAPI\obj\Debug\net6.0\SocialNetwork.WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\SocialNetwork.WebAPI\obj\Debug\net6.0\SocialNetwork.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\SocialNetwork.WebAPI\obj\Debug\net6.0\SocialNetwork.WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\SocialNetwork.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\SocialNetwork.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Presentation\SocialNetwork.WebAPI\obj\Debug\net6.0\scopedcss\bundle\SocialNetwork.WebAPI.styles.css

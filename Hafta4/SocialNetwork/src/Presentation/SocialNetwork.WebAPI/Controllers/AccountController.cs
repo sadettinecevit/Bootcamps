@@ -16,11 +16,11 @@ namespace SocialNetwork.WebAPI.Controllers
     public class AccountController : ControllerBase
     {
         private readonly UserManager<User> _userManager;
-        private readonly RoleManager<User> _roleManager;
+        private readonly RoleManager<IdentityRole> _roleManager;
         private readonly SignInManager<User> _signInManager;
         private readonly IConfiguration _configuration;
         public AccountController(UserManager<User> userManager
-            , IConfiguration configuration, RoleManager<User> roleManager
+            , IConfiguration configuration, RoleManager<IdentityRole> roleManager
             , SignInManager<User> signInManager)
         {
             _userManager = userManager;
