@@ -8,6 +8,4 @@
         public IEnumerable<Lesson> Lessons { get; set; }
     }
 
-
-
 }

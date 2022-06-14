@@ -1,0 +1,12 @@
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Domain\bin\Debug\net6.0\SocialNetwork.Domain.deps.json
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Domain\bin\Debug\net6.0\SocialNetwork.Domain.dll
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Domain\bin\Debug\net6.0\SocialNetwork.Domain.pdb
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Domain\obj\Debug\net6.0\SocialNetwork.Domain.csproj.AssemblyReference.cache
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Domain\obj\Debug\net6.0\SocialNetwork.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Domain\obj\Debug\net6.0\SocialNetwork.Domain.AssemblyInfoInputs.cache
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Domain\obj\Debug\net6.0\SocialNetwork.Domain.AssemblyInfo.cs
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Domain\obj\Debug\net6.0\SocialNetwork.Domain.csproj.CoreCompileInputs.cache
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Domain\obj\Debug\net6.0\SocialNetwork.Domain.dll
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Domain\obj\Debug\net6.0\refint\SocialNetwork.Domain.dll
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Domain\obj\Debug\net6.0\SocialNetwork.Domain.pdb
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Domain\obj\Debug\net6.0\ref\SocialNetwork.Domain.dll

@@ -1,0 +1,12 @@
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Infrastructure\SocialNetwork.Infrastructure\bin\Debug\net6.0\SocialNetwork.Infrastructure.deps.json
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Infrastructure\SocialNetwork.Infrastructure\bin\Debug\net6.0\SocialNetwork.Infrastructure.dll
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Infrastructure\SocialNetwork.Infrastructure\bin\Debug\net6.0\SocialNetwork.Infrastructure.pdb
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Infrastructure\SocialNetwork.Infrastructure\obj\Debug\net6.0\SocialNetwork.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Infrastructure\SocialNetwork.Infrastructure\obj\Debug\net6.0\SocialNetwork.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Infrastructure\SocialNetwork.Infrastructure\obj\Debug\net6.0\SocialNetwork.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Infrastructure\SocialNetwork.Infrastructure\obj\Debug\net6.0\SocialNetwork.Infrastructure.AssemblyInfo.cs
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Infrastructure\SocialNetwork.Infrastructure\obj\Debug\net6.0\SocialNetwork.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Infrastructure\SocialNetwork.Infrastructure\obj\Debug\net6.0\SocialNetwork.Infrastructure.dll
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Infrastructure\SocialNetwork.Infrastructure\obj\Debug\net6.0\refint\SocialNetwork.Infrastructure.dll
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Infrastructure\SocialNetwork.Infrastructure\obj\Debug\net6.0\SocialNetwork.Infrastructure.pdb
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Infrastructure\SocialNetwork.Infrastructure\obj\Debug\net6.0\ref\SocialNetwork.Infrastructure.dll

@@ -1,0 +1,15 @@
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Application\bin\Debug\net6.0\SocialNetwork.Application.deps.json
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Application\bin\Debug\net6.0\SocialNetwork.Application.dll
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Application\bin\Debug\net6.0\SocialNetwork.Application.pdb
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Application\bin\Debug\net6.0\SocialNetwork.Domain.dll
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Application\bin\Debug\net6.0\SocialNetwork.Domain.pdb
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Application\obj\Debug\net6.0\SocialNetwork.Application.csproj.AssemblyReference.cache
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Application\obj\Debug\net6.0\SocialNetwork.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Application\obj\Debug\net6.0\SocialNetwork.Application.AssemblyInfoInputs.cache
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Application\obj\Debug\net6.0\SocialNetwork.Application.AssemblyInfo.cs
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Application\obj\Debug\net6.0\SocialNetwork.Application.csproj.CoreCompileInputs.cache
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Application\obj\Debug\net6.0\SocialNetwork.Application.csproj.CopyComplete
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Application\obj\Debug\net6.0\SocialNetwork.Application.dll
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Application\obj\Debug\net6.0\refint\SocialNetwork.Application.dll
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Application\obj\Debug\net6.0\SocialNetwork.Application.pdb
+C:\Users\secevit\source\repos\Bootcamps\Hafta4\SocialNetwork\src\Core\SocialNetwork.Application\obj\Debug\net6.0\ref\SocialNetwork.Application.dll
